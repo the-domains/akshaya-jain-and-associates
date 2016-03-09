@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Akshaya Jain and Associates]]></title>
         <description><![CDATA[Akshaya Jain and Associates]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/akshaya-jain-and-associates/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 11:58:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 12:02:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/akshaya-jain-and-associates/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab6a0e35-3108-494b-ac9b-9815dcf881b5.jpg">]]></description>
+            <link>https://thegrid.ai/akshaya-jain-and-associates/indian-embassy-complex-at-kathmandu-nepal/index.html</link>
+            <guid isPermaLink="false">ee4a81cc-26d6-4902-bb2e-d4d1c76ab810</guid>
+            <pubDate>Wed, 09 Mar 2016 12:01:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Torana Gate at Kuala Lumpur, Malaysia]]></title>
             <description><![CDATA[<article><h1>Torana Gate at Kuala Lumpur, Malaysia</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed43a2a337b108506f86d8edd4551da20e076435.jpg"></article>]]></description>
-            <link>undefined1432546c-2ecb-4b5e-a9b0-7fa8799da229/index.html</link>
+            <link>https://thegrid.ai/akshaya-jain-and-associates/1432546c-2ecb-4b5e-a9b0-7fa8799da229/index.html</link>
             <guid isPermaLink="false">1432546c-2ecb-4b5e-a9b0-7fa8799da229</guid>
             <pubDate>Wed, 09 Mar 2016 11:58:19 GMT</pubDate>
         </item>
