@@ -1,7 +1,7 @@
 name: Akshaya Jain and Associates
 favicon: null
-layout_spectrum: 0.2133613396435976
-typography_spectrum: 0.779962807893753
+layout_spectrum: 0
+typography_spectrum: 0.49955
 title: 'Akshaya Jain & Associates'
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.14071578183211386
+  brandStrength: 0.0625
   lightness: 0.25222198758274317
   saturation: 0.7187027635518461
   rhythmicContrast: 0.6737802904099226
